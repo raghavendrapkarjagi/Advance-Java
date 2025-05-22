@@ -9,7 +9,7 @@
 follows<br>**
 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1a_ArrayLIst_LinkedList.png)
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1a_ArrayLIst_LinkedList.png)
 
 ---
   
