@@ -182,14 +182,16 @@ procedure.<br>
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.<br>
-[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPCookieManagement/7a_second.jsp)<br>
-[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPCookieManagement/7a_session-j.jpeg)<br>
+[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_1.png)<br>
+[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_2.png)<br>
+[Output Screenshot3](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_3.png)<br>
+[Output Screenshot4](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_4.png)<br>
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
-Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
-it has to go to show the active cookie list when you press the link go to the active cookie list<br>
-[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPSessionManagement/7b_setCookie.jsp)<br>
-[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPSessionManagement/7b_cookie-j.jpeg)<br>
+Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list<br>
+[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_1.png)<br>
+[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_2.png)<br>
+[Output Screenshot3](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_3.png)<br>
 
 ---
 
