@@ -2,7 +2,7 @@
  **Name**: Raghavendra P Karjagi  
 **USN**: 4AL22CS112  
 **Sem/Section**: VI/B  
-**Total Programs**: 28  
+**Total Programs**: 28   
 
 ---
 **1a.  Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as
