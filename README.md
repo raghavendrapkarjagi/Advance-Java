@@ -6,54 +6,54 @@
 
 ---
 **1a.  Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as
-follows<br>**
+follows:<br>**
 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
-size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list<br>
+size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1a_ArrayLIst_LinkedList.png)
 
 ---
   
-**1b. ArrayList**
-1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not<br>
+**1b. ArrayList Programs**
+1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_searchcolor.png)<br>
 
-2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList<br>
+2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorRemove.png)<br>
 
-3. Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)<br>
+3. Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj).<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorSort.png)<br>
 
-4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()<br>
+4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorSubList.png)
 
-5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index<br>
+5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorRemoveByIndex.png)
 
 ---
-**1c. LinkedList**
-1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))<br>
+**1c. LinkedList Programs**
+1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1)).<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListIteratorExample.png)<br>
 
-2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())<br>
+2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator()).<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListReverseIteration.png)<br>
 
 3. Write a Java program to insert the specified element at the end of a linked list.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListOfferLast.png)<br>
 
-4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p) )<br>
+4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p)).<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListElementPositions.png)<br>
 
-5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))<br>
+5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2)).<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListSwapElements.png)<br>
 
 ---
 **2a. Develop a java program for performing various string operations with different string
-handling functions directed as follows<br>**
+handling functions directed as follows.<br>**
 
 String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
-contains( ) and startsWith() and endsWith()<br>
+contains( ) and startsWith() and endsWith().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp2-StringHandling/2a_StringOperationsDemo.png)<br>
 
 ---
@@ -66,7 +66,7 @@ your answer which one is better.**<br>
 
 **3. String Operations<br>**
 
-3a. Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching,Substring Operations , String Modification, Whitespace Handling, String Concatenation,String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()<br>
+3a. Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching,Substring Operations , String Modification, Whitespace Handling, String Concatenation,String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3a_StringOperationsDemo.png)<br>
 
 ---
@@ -76,7 +76,7 @@ your answer which one is better.**<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck.png)<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
-using user defined function countOccurrences()<br>
+using user defined function countOccurrences().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_SubstringCounter.png)<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
@@ -86,7 +86,7 @@ reverseString().<br>
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_PalindromeChecker.png)<br>
 
-5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()<br>
+5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.png)<br>
 
 ---
@@ -96,24 +96,24 @@ reverseString().<br>
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
 
-7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()<br>
+7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_TruncateString.png)<br>
 
-8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()<br>
+8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_NumericCheck.png)<br>
 
 9. Write a Java Program for Creating a random string of a specified length using user defined
-function generateRandomString()<br>
+function generateRandomString().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_RandomStringGenerator.png)<br>
 
-10. Write a Java Program for Counting the number of words in a string using user defined function countWords()<br>
+10. Write a Java Program for Counting the number of words in a string using user defined function countWords().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_WordCounter.png)<br>
 
 ---
 **4. Swings**<br>
 
 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
-Programming in Blue color plain font with font size of 32 using Jframe and Jlabel<br>
+Programming in Blue color plain font with font size of 32 using Jframe and Jlabel.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
 
 ---
@@ -146,7 +146,7 @@ display the capital of the countries on console whenever the countries are selec
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5c_CountryCapitalList.png)<br>
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
-display the concerned color whenever the specific tab is selected in the Pan<br>
+display the concerned color whenever the specific tab is selected in the Pan.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5d_ColorTabbedPane.png)<br>
 
 ---
@@ -178,7 +178,7 @@ Check the expiry of the session after one minute.<br>
 [Output Screenshot4](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_4.png)<br>
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
-Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list<br>
+Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list.<br>
 [Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_1.png)<br>
 [Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_2.png)<br>
 [Output Screenshot3](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_3.png)<br>
@@ -187,45 +187,45 @@ Expiry Age ( in sec) and press the button Add Cookie for displaying the set cook
 
 **8. SQL + JDBC**
 
-8a. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
+8a. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8A/8a_select%20and%20insert.jpeg)<br>
 
 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields
-( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8B/8b_update_.jpeg)<br>
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
-HTML and JSP to get the fields and display the results respectively<br>
+HTML and JSP to get the fields and display the results respectively.<br>
 [Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction1.png)<br>
 [Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction2.png)<br>
 
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
-results respectively<br>
+results respectively.<br>
 [Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_updateEmp1.png)<br>
 [Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_updateEmp2.png)<br>
 
 ---
 **9. SQL + JDBC Examples**
 
-9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively<br>
+9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9A/9a_delete_.jpeg)<br>
 
-9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively<br>
+9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9B/9b_MysqlQuery.jpeg)<br>
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
-to get the field and display the results respectively<br>
+to get the field and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9C/9c_viewFilteredReport.png)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
-follows using HTML and JSP to get the field and display the results respectively<br>
+follows using HTML and JSP to get the field and display the results respectively.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9D/9d_delete.png)<br>
 
 
