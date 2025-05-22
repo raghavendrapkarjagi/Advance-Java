@@ -15,36 +15,36 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
   
 **1b. ArrayList**
 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1b_searchcolor.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_searchcolor.png)<br>
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1b_ColorRemove.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorRemove.png)<br>
 
 3. Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1b_ColorSort.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorSort.png)<br>
 
 4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1b_ColorSubList.png)
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorSubList.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1b_ColorRemoveByIndex.png)
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1b_ColorRemoveByIndex.png)
 
 ---
 **1c. LinkedList**
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1c_LinkedListIteratorExample.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListIteratorExample.png)<br>
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1c_LinkedListReverseIteration.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListReverseIteration.png)<br>
 
 3. Write a Java program to insert the specified element at the end of a linked list.<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1c_LinkedListOfferLast.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListOfferLast.png)<br>
 
 4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p) )<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1c_LinkedListElementPositions.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListElementPositions.png)<br>
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp1-ListInterface/1c_LinkedListSwapElements.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp1-ListInterface/1c_LinkedListSwapElements.png)<br>
 
 ---
 **2a. Develop a java program for performing various string operations with different string
@@ -54,13 +54,13 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 Searching, Substring Operations , String Modification, Whitespace Handling, String
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp2-StringHandling/2a_StringOperationsDemo.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp2-StringHandling/2a_StringOperationsDemo.png)<br>
 
 ---
 **2b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.**<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp2-StringHandling/2b_StringBufferVsStringBuilderPerformance.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp2-StringHandling/2b_StringBufferVsStringBuilderPerformance.png)<br>
 
 ---
 
@@ -70,30 +70,30 @@ your answer which one is better.**<br>
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3a_StringOperationsDemo.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3a_StringOperationsDemo.png)<br>
 
 ---
 
 **3b. String Exercises**<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck.png)<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3b_SubstringCounter.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_SubstringCounter.png)<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
 reverseString().<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3b_ReverseStringDemo.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_ReverseStringDemo.png)<br>
 
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome():<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3b_PalindromeChecker.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_PalindromeChecker.png)<br>
 
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.png)<br>
 
 ---
 
@@ -101,42 +101,42 @@ function removeWhitespace()<br>
 <br>
 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords().<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
 
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3c_TruncateString.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_TruncateString.png)<br>
 
 8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3c_NumericCheck.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_NumericCheck.png)<br>
 
 9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3c_RandomStringGenerator.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_RandomStringGenerator.png)<br>
 
 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp3-StringOperations/3c_WordCounter.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_WordCounter.png)<br>
 
 ---
 **4. Swings**<br>
 
 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
 
 ---
 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
 pressed” depending upon the Jbutton either Srilanka or India  pressed by implementing the
 event handling mechanism with addActionListener( ).<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp4-Swings/4b_CountryButtonDemo.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4b_CountryButtonDemo.png)<br>
 
 ---
 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp4-Swings/4c_ImageButtonDemo.png)<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4c_ImageButtonDemo.png)<br>
 
 ---
 **5. Swings Examples**<br>
@@ -169,13 +169,11 @@ display the concerned color whenever the specific tab is selected in the Pan<br>
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.<br>
-[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet.java)<br>
 [Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/FactorialServlet/6a_factorial.jpeg)<br>
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
-[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.java)<br>
 [Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.jpeg)<br>
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
