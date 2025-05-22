@@ -1,6 +1,6 @@
 # Advanced_Java_Programs
- **Name**: Mohammed Ahazar  
-**USN**: 4AL22CS089  
+ **Name**: Raghavendra P Karjagi  
+**USN**: 4AL22CS112  
 **Sem/Section**: VI/B  
 **Total Programs**: 28  
 
@@ -66,17 +66,13 @@ your answer which one is better.**<br>
 
 **3. String Operations<br>**
 
-3a. Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String
-Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
-String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
-startsWith() and endsWith()<br>
+3a. Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching,Substring Operations , String Modification, Whitespace Handling, String Concatenation,String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3a_StringOperationsDemo.png)<br>
 
 ---
 
 **3b. String Exercises**<br>
-1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
-defined function isNullOrEmpty().<br>
+1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck.png)<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
@@ -87,36 +83,30 @@ using user defined function countOccurrences()<br>
 reverseString().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_ReverseStringDemo.png)<br>
 
-4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
-and punctuation) using user defined function isPalindrome():<br>
+4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_PalindromeChecker.png)<br>
 
-5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
-function removeWhitespace()<br>
+5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.png)<br>
 
 ---
 
 **3c. String Exercises**<br>
 <br>
-6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
-capitalizeWords().<br>
+6. Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
 
-7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
-defined function truncate()<br>
+7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_TruncateString.png)<br>
 
-8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
-function isNumeric()<br>
+8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_NumericCheck.png)<br>
 
 9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_RandomStringGenerator.png)<br>
 
-10. Write a Java Program for Counting the number of words in a string using user defined function
-countWords()<br>
+10. Write a Java Program for Counting the number of words in a string using user defined function countWords()<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_WordCounter.png)<br>
 
 ---
@@ -197,58 +187,46 @@ Expiry Age ( in sec) and press the button Add Cookie for displaying the set cook
 
 **8. SQL + JDBC**
 
-8a. Read all the existing records from the table coffee which is from the database test and insert a
-new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
-JSP to get the fields and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+8a. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8A/8a_select%20and%20insert.jpeg)<br>
 
-8b. Read all the existing records from the table coffee which is from the database test and update an
-existing coffee product in the table with its id. [Create a table coffee with fields
+8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8B/8b_update_.jpeg)<br>
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction1.png)<br>
+[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction2.png)<br>
+
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_updateEmp1.png)<br>
+[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_updateEmp2.png)<br>
 
 ---
 **9. SQL + JDBC Examples**
 
-9a. Read all the existing records from the table coffee which is from the database test and delete
-an existing coffee product from the table with its id and display the rest of the records using
-HTML and JSP to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9A/9a_delete_.jpeg)<br>
 
-9b. Read all the existing records from the table coffee which is from the database test and query
-coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
-results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9B/9b_MysqlQuery.jpeg)<br>
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9C/9c_viewFilteredReport.png)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp9-SQL%2BJDBC/9D/9d_delete.png)<br>
 
 
 
