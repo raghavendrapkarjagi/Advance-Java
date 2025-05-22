@@ -112,7 +112,7 @@ function generateRandomString().<br>
 ---
 **4. Swings**<br>
 
-4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
+4a. Basic hello program of Swing displaying the message Hello! VI B , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel.<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
 
