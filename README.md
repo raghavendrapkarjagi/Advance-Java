@@ -93,8 +93,9 @@ reverseString().<br>
 
 **3c. String Exercises**<br>
 <br>
-6. Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords().<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
+ 6. Write a Java Program for Capitalizing the first letter of each word. using user defined 
+ function capitalizeWords().<br>
+ [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_CapitalizeWords.png)<br>
 
 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate().<br>
 [Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp3-StringOperations/3c_TruncateString.png)<br>
